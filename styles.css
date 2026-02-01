@@ -34,6 +34,19 @@ body {
   overflow: hidden; 
 }
 
+#screen {
+  color: #0b0b0b;
+  font-size: 1.6rem;
+  font-weight: 500;
+
+  line-height: 1;
+  white-space: nowrap;
+  text-align: right;
+
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis; /* trims long numbers */
+}
 
 .buttons {
   display: grid;
