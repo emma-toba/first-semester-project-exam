@@ -51,8 +51,9 @@ body {
 
 .buttons {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(5, 56px);
   gap: 14px;
+  justify-content: center;
 }
 
 .btn {
