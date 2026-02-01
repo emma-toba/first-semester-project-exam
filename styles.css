@@ -36,7 +36,7 @@ body {
 }
 
 #screen {
-  color: #0b0b0b;
+  color: #ffffff;
   font-size: 1.6rem;
   font-weight: 500;
 
@@ -46,7 +46,8 @@ body {
 
   max-width: 100%;
   overflow: hidden;
-  text-overflow: ellipsis; /* trims long numbers */
+  text-overflow: ellipsis; 
+  opacity: 0.95;
 }
 
 .buttons {
