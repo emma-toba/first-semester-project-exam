@@ -34,7 +34,7 @@ body {
 .btn {
   height: 56px;
   width: 56px;
-  border-radius: 28px;
+  border-radius: 10px;
   border: none;
   background: #2c2f4a;
   color: #fff;
